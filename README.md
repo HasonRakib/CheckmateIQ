@@ -176,7 +176,7 @@ Contributions are welcome! Here's how to get involved:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## 🙏 Acknowledgments
 
@@ -187,9 +187,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: [Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Project Maintainer**: Hason Rakib
+- GitHub: [@HasonRakib](https://github.com/HasonRakib)
+
 
 ---
 
