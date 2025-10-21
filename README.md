@@ -4,6 +4,8 @@
 
 CheckmateIQ is a modern web application that analyzes chess games using OCR technology and advanced position evaluation. Upload screenshots of chess games or paste PGN notation to get detailed move-by-move analysis with professional-grade insights.
 
+checkmate-iq.vercel.app
+
 ![CheckmateIQ Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=CheckmateIQ+Demo)
 
 ## ✨ Features
